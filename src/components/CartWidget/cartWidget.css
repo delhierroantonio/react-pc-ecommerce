@@ -1,0 +1,8 @@
+.cart {
+    font-size: 3rem;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+.cart:hover {
+   padding-right: .3rem;
+}
